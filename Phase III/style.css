@@ -17,7 +17,7 @@
 .top-nav {
   padding: 24px 48px 16px;
   width: 100%;
-  border-bottom: 0.5px solid #CCCCCC;
+  border-bottom: 0.5px solid #cccccc;
   justify-content: space-between;
 }
 
@@ -143,6 +143,7 @@
   margin-top: 80px;
   gap: 30px;
   justify-content: center;
+  padding: 0 60px;
 }
 
 .section-two-item {
@@ -333,7 +334,6 @@
 }
 
 @media (max-width: 600px) {
-
   .orange-image,
   .section-two-container,
   .section-two-image {
